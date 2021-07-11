@@ -5,4 +5,6 @@ Member:
   2) Father
   3) Mother
   4) Brother
+  5)Step-brother
+  6)Sister
 Thank you!!
